@@ -11,7 +11,7 @@ Execution of project:
 
 
 
-                    https://user-images.githubusercontent.com/68767604/123105828-be015880-d455-11eb-9454-98a638a89103.mp4
+   https://user-images.githubusercontent.com/68767604/123105828-be015880-d455-11eb-9454-98a638a89103.mp4
                     
                     
                     
@@ -21,7 +21,7 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                  ![a1](https://user-images.githubusercontent.com/68767604/123115982-281dfb80-d45e-11eb-9681-9895cda936ca.png)
+   ![a1](https://user-images.githubusercontent.com/68767604/123115982-281dfb80-d45e-11eb-9681-9895cda936ca.png)
 
 
 
@@ -32,7 +32,7 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                  ![a3](https://user-images.githubusercontent.com/68767604/123109006-85af4980-d458-11eb-8553-681da4a4863d.png)
+   ![a3](https://user-images.githubusercontent.com/68767604/123109006-85af4980-d458-11eb-8553-681da4a4863d.png)
 
 
 
@@ -41,7 +41,7 @@ Here are some Screen shots by step by step Execution:
 3.RegisterPage:
 
 
-                  ![a2](https://user-images.githubusercontent.com/68767604/123109143-9cee3700-d458-11eb-9514-ee57b39692b0.png)
+   ![a2](https://user-images.githubusercontent.com/68767604/123109143-9cee3700-d458-11eb-9514-ee57b39692b0.png)
 
 
 
@@ -52,7 +52,8 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                  ![a4](https://user-images.githubusercontent.com/68767604/123109245-b3948e00-d458-11eb-9bdc-715b933236dd.png)
+   
+   ![a4](https://user-images.githubusercontent.com/68767604/123109245-b3948e00-d458-11eb-9bdc-715b933236dd.png)
 
 
 
@@ -64,7 +65,8 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                  ![a5](https://user-images.githubusercontent.com/68767604/123109366-d030c600-d458-11eb-93a2-bb811dd21c13.png)
+   
+   ![a5](https://user-images.githubusercontent.com/68767604/123109366-d030c600-d458-11eb-93a2-bb811dd21c13.png)
 
 
 
@@ -73,7 +75,7 @@ Here are some Screen shots by step by step Execution:
 
 
                   
-                  ![a6](https://user-images.githubusercontent.com/68767604/123109429-db83f180-d458-11eb-95a2-5bbf83a09be5.png)
+   ![a6](https://user-images.githubusercontent.com/68767604/123109429-db83f180-d458-11eb-95a2-5bbf83a09be5.png)
                   
                   
                   
@@ -83,7 +85,7 @@ Here are some Screen shots by step by step Execution:
                   
                  
                  
-                 ![a7](https://user-images.githubusercontent.com/68767604/123109469-e5a5f000-d458-11eb-9721-88cd9339b4d6.png)
+   ![a7](https://user-images.githubusercontent.com/68767604/123109469-e5a5f000-d458-11eb-9721-88cd9339b4d6.png)
 
 
 
@@ -98,7 +100,7 @@ Here are some Screen shots by step by step Execution:
 
                 
                 
-                ![a8](https://user-images.githubusercontent.com/68767604/123109869-3a496b00-d459-11eb-9a47-13363ce4cb75.png)
+   ![a8](https://user-images.githubusercontent.com/68767604/123109869-3a496b00-d459-11eb-9a47-13363ce4cb75.png)
 
 
 
@@ -115,7 +117,7 @@ Here are some Screen shots by step by step Execution:
 
                 
                 
-                ![a9](https://user-images.githubusercontent.com/68767604/123110263-8a283200-d459-11eb-9972-e0c671a2004d.png)
+   ![a9](https://user-images.githubusercontent.com/68767604/123110263-8a283200-d459-11eb-9972-e0c671a2004d.png)
 
 
 
@@ -126,7 +128,8 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                ![a10](https://user-images.githubusercontent.com/68767604/123110509-c8255600-d459-11eb-85d4-7de4ea35e45d.png)
+   
+   ![a10](https://user-images.githubusercontent.com/68767604/123110509-c8255600-d459-11eb-85d4-7de4ea35e45d.png)
 
 
 
@@ -139,7 +142,7 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                 ![a11](https://user-images.githubusercontent.com/68767604/123110624-e2f7ca80-d459-11eb-8641-3b4220887840.png)
+   ![a11](https://user-images.githubusercontent.com/68767604/123110624-e2f7ca80-d459-11eb-8641-3b4220887840.png)
 
 
 
@@ -154,7 +157,7 @@ Here are some Screen shots by step by step Execution:
 
                 
                 
-                ![a12](https://user-images.githubusercontent.com/68767604/123110806-0d498800-d45a-11eb-900b-3aeaf0a390fe.png)
+   ![a12](https://user-images.githubusercontent.com/68767604/123110806-0d498800-d45a-11eb-900b-3aeaf0a390fe.png)
 
 
 
@@ -168,7 +171,7 @@ Here are some Screen shots by step by step Execution:
 
                
                
-               ![a13](https://user-images.githubusercontent.com/68767604/123111204-5ac5f500-d45a-11eb-854e-a749dc372e73.png)
+   ![a13](https://user-images.githubusercontent.com/68767604/123111204-5ac5f500-d45a-11eb-854e-a749dc372e73.png)
 
 
 
