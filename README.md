@@ -26,11 +26,15 @@ Here are some Screen shots by step by step Execution:
 
 
 
+
+
 2.Loginpage:
 
 
 
                   ![a3](https://user-images.githubusercontent.com/68767604/123109006-85af4980-d458-11eb-8553-681da4a4863d.png)
+
+
 
 
 
@@ -42,11 +46,15 @@ Here are some Screen shots by step by step Execution:
 
 
 
+
+
 4.Homepage With Welcome message and Razorpay button:
 
 
 
                   ![a4](https://user-images.githubusercontent.com/68767604/123109245-b3948e00-d458-11eb-9bdc-715b933236dd.png)
+
+
 
 
 
@@ -64,6 +72,7 @@ Here are some Screen shots by step by step Execution:
 
 
 
+                  
                   ![a6](https://user-images.githubusercontent.com/68767604/123109429-db83f180-d458-11eb-95a2-5bbf83a09be5.png)
                   
                   
@@ -72,7 +81,12 @@ Here are some Screen shots by step by step Execution:
                   
                   
                   
-                  ![a7](https://user-images.githubusercontent.com/68767604/123109469-e5a5f000-d458-11eb-9721-88cd9339b4d6.png)
+                 
+                 
+                 ![a7](https://user-images.githubusercontent.com/68767604/123109469-e5a5f000-d458-11eb-9721-88cd9339b4d6.png)
+
+
+
 
 
 
@@ -82,7 +96,11 @@ Here are some Screen shots by step by step Execution:
 
 
 
+                
+                
                 ![a8](https://user-images.githubusercontent.com/68767604/123109869-3a496b00-d459-11eb-9a47-13363ce4cb75.png)
+
+
 
 
 
@@ -95,7 +113,11 @@ Here are some Screen shots by step by step Execution:
 
 
 
+                
+                
                 ![a9](https://user-images.githubusercontent.com/68767604/123110263-8a283200-d459-11eb-9972-e0c671a2004d.png)
+
+
 
 
 
@@ -105,6 +127,9 @@ Here are some Screen shots by step by step Execution:
 
 
                 ![a10](https://user-images.githubusercontent.com/68767604/123110509-c8255600-d459-11eb-85d4-7de4ea35e45d.png)
+
+
+
 
 
 
@@ -119,11 +144,20 @@ Here are some Screen shots by step by step Execution:
 
 
 
+
+
+
+
 10.Alert Dailog when pressed logout in burgermenu(Appdrawer):
 
 
 
-                 ![a12](https://user-images.githubusercontent.com/68767604/123110806-0d498800-d45a-11eb-900b-3aeaf0a390fe.png)
+                
+                
+                ![a12](https://user-images.githubusercontent.com/68767604/123110806-0d498800-d45a-11eb-900b-3aeaf0a390fe.png)
+
+
+
 
 
 
@@ -132,7 +166,9 @@ Here are some Screen shots by step by step Execution:
 
 
 
-                ![a13](https://user-images.githubusercontent.com/68767604/123111204-5ac5f500-d45a-11eb-854e-a749dc372e73.png)
+               
+               
+               ![a13](https://user-images.githubusercontent.com/68767604/123111204-5ac5f500-d45a-11eb-854e-a749dc372e73.png)
 
 
 
